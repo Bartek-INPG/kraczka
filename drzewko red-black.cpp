@@ -23,8 +23,7 @@ struct RBTNode
   char color;
 };
 
-// Definicja typu obiektowego TRBTree
-class TRBTree
+// Definicja typu obiektowego TRBTree bla bla
 {
   private:
     RBTNode S;             // Wêze³ stra¿nika
